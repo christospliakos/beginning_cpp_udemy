@@ -1,11 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <CodeLite_Workspace Name="Section10" Database="" Version="10000">
+  <Project Name="TestingGithub" Path="TestingGithub/TestingGithub.project" Active="Yes"/>
   <BuildMatrix>
     <WorkspaceConfiguration Name="Debug" Selected="yes">
       <Environment/>
+      <Project Name="TestingGithub" ConfigName="Debug"/>
     </WorkspaceConfiguration>
-    <WorkspaceConfiguration Name="Release" Selected="no">
+    <WorkspaceConfiguration Name="Release" Selected="yes">
       <Environment/>
+      <Project Name="TestingGithub" ConfigName="Release"/>
     </WorkspaceConfiguration>
   </BuildMatrix>
 </CodeLite_Workspace>
