@@ -4,6 +4,6 @@
 -Ic:\MinGW\lib\gcc\mingw32\9.2.0\include
 -Ic:\MinGW\include
 -Ic:\MinGW\lib\gcc\mingw32\9.2.0\include-fixed
--IC:\Users\Work\Desktop\CppProjects\Section6\SizeOfOperator
+-IC:\Users\Work\Desktop\Cpp Projects\beginning_cpp_udemy\Section6\SizeOfOperator
 -target
 i686-pc-windows-gnu

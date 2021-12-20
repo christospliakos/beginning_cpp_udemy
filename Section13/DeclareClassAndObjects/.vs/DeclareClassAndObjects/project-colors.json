@@ -1,0 +1,31 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "4435caa2-aaf8-497e-864a-1e9a47797c49": {
+      "ProjectGuid": "4435caa2-aaf8-497e-864a-1e9a47797c49",
+      "DisplayName": "DeclareClassAndObjects",
+      "ColorIndex": 0
+    },
+    "dc37d908-ae18-4a2b-9501-55b56e6005ee": {
+      "ProjectGuid": "dc37d908-ae18-4a2b-9501-55b56e6005ee",
+      "DisplayName": "AccessingClassMembers",
+      "ColorIndex": 1
+    },
+    "638f2983-8449-4d7c-aa5a-1fdddb2b70cc": {
+      "ProjectGuid": "638f2983-8449-4d7c-aa5a-1fdddb2b70cc",
+      "DisplayName": "AccessModifiers",
+      "ColorIndex": 2
+    },
+    "2a17ed2f-d6b0-4105-9312-e1d22f8d7f32": {
+      "ProjectGuid": "2a17ed2f-d6b0-4105-9312-e1d22f8d7f32",
+      "DisplayName": "ImplementingMethods",
+      "ColorIndex": 3
+    },
+    "b33fb3f3-2fac-4160-b418-6a5b5d32ff9f": {
+      "ProjectGuid": "b33fb3f3-2fac-4160-b418-6a5b5d32ff9f",
+      "DisplayName": "ImplementingMethods2",
+      "ColorIndex": 4
+    }
+  },
+  "NextColorIndex": 5
+}

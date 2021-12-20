@@ -4,8 +4,8 @@
   <Project Name="GlobalVariables" Path="GlobalVariables/GlobalVariables.project" Active="No"/>
   <Project Name="PrimitiveTypes" Path="PrimitiveTypes/PrimitiveTypes.project" Active="No"/>
   <Project Name="SizeOfOperator" Path="SizeOfOperator/SizeOfOperator.project" Active="No"/>
-  <Project Name="Constants" Path="Constants/Constants.project" Active="No"/>
-  <Project Name="Challenge" Path="Challenge/Challenge.project" Active="Yes"/>
+  <Project Name="Constants" Path="Constants/Constants.project" Active="Yes"/>
+  <Project Name="Challenge" Path="Challenge/Challenge.project" Active="No"/>
   <BuildMatrix>
     <WorkspaceConfiguration Name="Debug" Selected="yes">
       <Environment/>
